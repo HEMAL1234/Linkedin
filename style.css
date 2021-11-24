@@ -1,0 +1,137 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: #0376AF;
+}
+.signup {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: antiquewhite;
+}
+h1 img {
+    border-radius: 5px;
+}
+form {
+    font-family:arial;
+    width: 380px;
+    background-color: #EEEEEE;
+    margin: auto;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+form input {
+    font-family:arial;
+    width: 320px;
+    margin-left: 5%;
+    margin-right: 4%;
+    padding: 2% 6% 2% 0%;
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+     
+}
+form label {
+    font-family:arial;
+    margin-left: 5%;
+    color: #8B8C88;
+   
+}
+.pr1 {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Rubik', sans-serif;
+}
+button {
+        width: 346px;
+        padding: 2% 0% 2% 0%;
+        background-color: #17416B;
+        border: 0px;
+        border-radius: 3px;
+        margin-left: 5.5%;
+      
+}
+button a {
+    text-decoration: none;
+    color: #DADADB;
+    font-size: 16px;
+}
+
+.fa {
+    color: #FFFDF5;
+    float: left;
+    width: 16px;
+}
+.con {
+    color: white;
+    background-color:  #212E4E;
+    font-size: 15px;
+    padding-bottom: 1%;
+
+}
+.pre2 {
+    text-align: center;
+    font-family: 'Rubik',sans-serif;
+    font-size: 13px;
+}
+p a {
+    text-decoration: none;
+}
+.pre3 {
+    text-align: center;
+    font-family: arial;
+    color: white;
+    font-size: 11px;
+}
+h2{
+
+
+    color: white;
+}
+h1{
+
+    color: white;
+    
+
+}
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family:Arial ;
+  font-style: normal;
+  font-size: 12px;
+  color:#858585;s
+}
+
+
+.divider::after,
+.divider::before {
+  content: "";
+   border: 0.3px solid #B6B6B6;
+  flex: 2;
+}
+
+
+.divider:not(:empty)::before {
+  margin-right: 0.25%;
+}
+
+.divider:not(:empty)::after {
+  margin-left: 0.22em;
+}
+.button2{ width:350px; height:35px; 
+ top:625px; background:#17416B; font-family:Arial;
+ font-size:14px; font-weight:bold; color:white; border-radius:5px 5px 5px 5px;
+ border-width: 1px; border-style:solid; border-color: gray;
+ cursor:pointer; outline:none; }
+  .pre2 a {
+   color: #0376AF;
+  
+  }
+  #info4{
+     text-align:center;
+     
+     color:#888889;
+     
+     font-family:arial;
+     font-size:12px;
+             }
